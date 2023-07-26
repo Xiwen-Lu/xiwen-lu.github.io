@@ -60,15 +60,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Xiwen-Lu
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Xiwen-Lu-3
+  - icon: weixin
+    icon_pack: fab
+    link: luxiwen1999
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiwen Lu is currently a phd student at the Fudan University. His research interests include micro/nano robotics, medical equipment and artificial intelligence.
 {style="text-align: justify;"}
