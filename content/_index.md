@@ -57,16 +57,16 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-        - name: R
+        - name: PyTorch
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Hadoop
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: LaTex
+          description: 80%
           icon: camera-retro
           icon_pack: fas
 #  - block: experience
@@ -104,27 +104,27 @@ sections:
 #          description: Taught electronic engineering and researched semiconductor physics.
 #    design:
 #      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Ministry of Education
-          organization_url: ''
-          title: National Scholarship
-          url: ''
+#  - block: accomplishments
+#    content:
+#      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+#      title: 'Accomplish&shy;ments'
+#      subtitle:
+#      # Date format: https://wowchemy.com/docs/customization/#date-format
+#      date_format: Jan 2006
+#      # Accomplishments.
+#      #   Add/remove as many `item` blocks below as you like.
+#      #   `title`, `organization`, and `date_start` are the required parameters.
+#      #   Leave other parameters empty if not required.
+#      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#      items:
+#        - certificate_url: ''
+#          date_end: ''
+#          date_start: '2021-01-25'
+#          description: ''
+#          organization: Ministry of Education
+#          organization_url: ''
+#          title: National Scholarship
+#          url: ''
 #        - certificate_url: ''
 #          date_end: ''
 #          date_start: '2019-11-00'
@@ -149,8 +149,8 @@ sections:
 #          organization_url: https://www.datacamp.com
 #          title: 'Object-Oriented Programming in R'
 #          url: ''
-    design:
-      columns: '2'
+#    design:
+#      columns: '2'
 #  - block: collection
 #    id: posts
 #    content:
@@ -291,6 +291,7 @@ sections:
         - icon: weixin
           icon_pack: fab
           name: Wechat Me (luxiwen1999)
+          link: 'wechat/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

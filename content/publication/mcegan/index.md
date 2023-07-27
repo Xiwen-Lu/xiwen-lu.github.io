@@ -1,17 +1,16 @@
 ---
-title: "Temporal Convolutional Network Based Signal Detection for Magnetotactic Bacteria Communication System"
+title: "Evolutionary generative adversarial network based end-to-end learning for MIMO molecular communication with drift system"
 authors:
-- Jiarui Zhu
-- Chenyao Bai*
-- Yunlong Zhu*
-- admin
-- Kezhi Wang
-#author_notes: []
-date: "2023-03-28T00:00:00Z"
+  - Jiarui Zhu
+  - Chenyao Bai*
+  - Yunlong Zhu*
+  - admin
+  - Kezhi Wang
+date: "2023-09-01T00:00:00Z"
 doi: "10.1016/j.nancom.2023.100456"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-01T00:00:00Z"
+# Schedule page publish date (NOT publication's date). 
+publishDate: "2023-05-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,7 +46,7 @@ url_pdf: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'The whole network.'
   focal_point: ""
   preview_only: false
 

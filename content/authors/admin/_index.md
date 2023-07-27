@@ -65,7 +65,7 @@ social:
     link: https://www.researchgate.net/profile/Xiwen-Lu-3
   - icon: weixin
     icon_pack: fab
-    link: luxiwen1999
+    link: 'wechat/'
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
