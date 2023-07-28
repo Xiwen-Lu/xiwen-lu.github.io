@@ -9,5 +9,5 @@ header:
 ---
 
 
-![QRcode](QRcode.jpg)
+![QRcode](img/QRcode.jpg)
 

@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Application
       institution: Academy for Engineering & Technology, Fudan University
       year: 2021-now
     - course: BSc in Computer Science

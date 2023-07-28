@@ -53,22 +53,10 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-        - name: PyTorch
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Hadoop
+        - name: Python
           description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: LaTex
-          description: 80%
-          icon: camera-retro
-          icon_pack: fas
+          icon: python
+          icon_pack: fab
 #  - block: experience
 #    content:
 #      title: Experience
@@ -303,5 +291,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '2'    
 ---
