@@ -2,10 +2,14 @@
 title: "Evolutionary generative adversarial network based end-to-end learning for MIMO molecular communication with drift system"
 authors:
   - Jiarui Zhu
-  - Chenyao Bai*
-  - Yunlong Zhu*
+  - Chenyao Bai
+  - Yunlong Zhu
   - admin
   - Kezhi Wang
+author_notes:
+  - 
+  - "Corresponding Author"
+  - "Corresponding Author"
 date: "2023-09-01T00:00:00Z"
 doi: "10.1016/j.nancom.2023.100456"
 
@@ -40,7 +44,7 @@ url_pdf: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-#url_source: ''
+url_source: 'https://www.sciencedirect.com/science/article/abs/pii/S1878778923000224'
 #url_video: ''
 
 # Featured image

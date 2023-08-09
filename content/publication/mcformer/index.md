@@ -1,21 +1,21 @@
 ---
-title: "Temporal Convolutional Network Based Signal Detection for Magnetotactic Bacteria Communication System"
+title: "MCFormer: A Transformer-Based Detector for Molecular Communication with Accelerated Particle-Based Solution"
 authors:
+- admin
 - Chenyao Bai
 - Aoji Zhu
-- admin
 - Yunlong Zhu
 - Kezhi Wang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 - 
 - "Corresponding Author"
-date: "2023-03-28T00:00:00Z"
-doi: "10.1109/TNB.2023.3262555"
+- 
+- "Corresponding Author"
+date: "2023-09-28T00:00:00Z"
+doi: "10.1109/LCOMM.2023.3303091"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-08-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on NanoBioscience"
+publication: "IEEE Communications Letters"
 publication_short: ""
 
-abstract: Molecular communication (MC) aims to use signaling molecules as information carriers to achieve communication between biological entities. However, MC systems severely suffers from inter symbol interference (ISI) and external noise, making it virtually difficult to obtain accurate mathematical models. Specifically, the mathematically intractable channel state information (CSI) of MC motivates the deep learning (DL) based signal detection methods. In this paper, a modified temporal convolutional network (TCN) is proposed for signal detection for a special MC communication system which uses magnetotactic bacteria (MTB) as information carriers. Results show that the TCN-based detector demonstrates the best overall performance. In particular, it achieves better bit error rate (BER) performance than sub-optimal maximum a posteriori (MAP) and deep neural network (DNN) based detectors. However, it behaves similar with the bidirectional long short term memory (BiLSTM) based detector that have been previously proposed and worse than the optimal MAP detector. When both BER performance and computational complexity are taken into account, the proposed TCN-based detector outperforms BiLSTM-based detectors. Furthermore, in terms of robustness evaluation, the proposed TCN-based detector outperforms all other DL-based detectors.
+abstract: Molecular communication (MC) enables communication at the nanoscale where traditional electromagnetic waves are ineffective, and accurate signal detection is essential for practical implementation. However, due to the lack of accurate mathematical models, statistical-based signal detection methods are not applicable, and existing deep learning-based models exhibit relative simplicity in design. This paper integrates ideas from natural language processing into MC and proposes the MCFormer, a detector based on the classical Transformer model. Additionally, we propose an accelerated particle-based simulation algorithm using matrix operations for rapid generation of high-quality training data with a lower complexity than traditional methods. The experimental results demonstrate that the MCFormer achieves nearly optimal accuracy in a noise-free environment, surpassing the performance of the Deep Neural Network (DNN). Moreover, MCFormer can show optimal performance in environments with significant levels of unknown noise. All the codes can be found at https://github.com/Xiwen-Lu/MCFormer.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -40,12 +40,12 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://github.com/Xiwen-Lu/MCFormer'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/abstract/document/10083153'
+url_source: 'https://ieeexplore.ieee.org/document/10210368'
 #url_video: ''
 
 # Featured image
